@@ -1,0 +1,4 @@
+wheel
+tkinter
+paho-mqtt
+playsound==1.2.2
